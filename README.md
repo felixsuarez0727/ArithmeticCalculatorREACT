@@ -48,3 +48,10 @@ VITE_BACKEND_API='http://127.0.0.1:8000/v1/
 6. Run 'npm run preview': This will run the app from the dist folder.
 
 7. The generated files for production will be in the dist folder. Deploy the contents of this folder to your hosting service.
+
+## LIVE VERSION
+Find the running app here:
+
+- BackEnd: https://arithmeticcalculatorrestapi.onrender.com/docs
+- FrontEnd: https://main--react-arithmetic-calculator-2024.netlify.app/
+
