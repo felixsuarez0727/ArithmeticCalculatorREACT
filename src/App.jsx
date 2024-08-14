@@ -7,7 +7,7 @@ import Calculate from './Pages/Calculate';
 import Login from './Pages/Login';
 import PrivateRouteWrapper from './Components/PrivateRouteWrapper'
 
-import Records from './pages/Records';
+import Records from './Pages/Records';
 
 function App() {
   
